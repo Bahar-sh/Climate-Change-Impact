@@ -10,3 +10,12 @@ selected country. percentage of population growth each years and forest covarage
 population and decreasing forest covarage will increase flood and storm events and which country are more responsible in producing co2 emission. 
 these reserch will showes which country produced and emitted moreCo2 and do increasing in populationa and decreasing in forest covarage have any impacts on co2 emission?
 which parameters has more imact on flood and storm impact.
+ in this reasearch we will find which country produce more Co2?
+
+which country has more urbanizaition by increasing population rate?
+
+which country has been more effected by flood and storm? in anothe word climate change on which country has more influances?
+
+is decreasing rate of forest covarage has effect on co2 emssion?
+
+is decreasing rate of forest covarage and increasing rate of population impacts on Co2 emission
